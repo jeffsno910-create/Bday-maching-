@@ -1,0 +1,3 @@
+index.html: original 98975 bytes | final 111427 bytes | original SHA-256 89ca2d86e41ee77e88989dbf6c7b7632c470d964c1e03172f831f41bcc2108c8
+script.js: original 56843 bytes | final 84137 bytes | original SHA-256 a72577e18d481a71d3a61ce4821eff4debe9be05d737e71c0d4b469f24b18bae
+style.css: original 130085 bytes | final 172143 bytes | original SHA-256 bb2fbe8a959542bcbe771541f0f1b148c21d40b02dba82938b1b377f1ee444c3
